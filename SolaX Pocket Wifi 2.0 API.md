@@ -1,4 +1,4 @@
-# Poket Wifi 2.0 REST API
+# Pocket Wifi 2.0 REST API
 
 **Important**:  You need to send a HTTP **POST** request!  
 Firmeware Version: 2.033.20 (Download page: http://de.solaxpower.com/downloads/)
