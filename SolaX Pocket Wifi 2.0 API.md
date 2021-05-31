@@ -9,6 +9,7 @@ http://5.8.8.8/?optType=ReadSetData
 http://5.8.8.8/?optType=BatteryMinEnergy&BatteryMinEnergyValue={{{payload}}}&  
 http://5.8.8.8/?optType=SolarChargerUseMode&SolarChargerUseModeValue={{{payload}}}&  
 http://5.8.8.8/?optType=Password&PasswordValue={{{password}}}
+
 http://5.8.8.8/?optType=ActivePowerLimit&PasswordValue={{{password}}}&ActivePowerLimitValue={{{payload}}}
 
 **ReadRealTimeData Respone:**
